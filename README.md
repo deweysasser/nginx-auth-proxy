@@ -1,3 +1,10 @@
+ARCHIVED
+========
+
+This project is no longer maintained.  I recommend  [Traefik](https://traefik.io/) to solve this problem -- it's much better all around.
+
+---
+
 nginx-auth-proxy
 ================
 
